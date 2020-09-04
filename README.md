@@ -1,5 +1,7 @@
 # Welcome to the Smoothix Documentation
 
-Get started by clicking on the different links in the sidebar.
+Smoothix is the easiest way to measure the impact of your team's actions on your digital product.
 
-<img src="https://smoothix.io/dashboard.452daabe.svg" style="margin: 64px auto; max-width:500px; display: block;">
+[Get Started](quickstart)
+
+![Dashboard Image](https://smoothix.io/dashboard.452daabe.svg)

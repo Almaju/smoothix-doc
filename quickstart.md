@@ -18,7 +18,7 @@ Give it a name and link it to an existing Google Analytics view and you are read
 
 ## Set up your goals
 
-Every KPI computed by Smoothix is based around Goals. Why? Because it is a good way for you to objectivate the impact of your work. [Learn more about Goals best practices](goals#best-practices)
+Every KPI computed by Smoothix is based around Goals. Why? Because it is a good way for you to objectivate the impact of your work. [Learn more about Goals best practices](goal?id=best-practices)
 
 In Google Analytics, goals are defined by several attributes:
 
@@ -38,3 +38,5 @@ Create your first activity by giving it:
 - **Period:** The start and end date of your activity.
 - **Target:** The users you are targetting. E.g. if you are translating your website to French, you want to filter only the people speaking French for your KPI.
 - **Goal:** Which Goal you are trying to improve and how. E.g. I want to improve my **Login** page **Conversion Rate**.
+
+![Activity Dashboard](_media/activity-metrics.png)
